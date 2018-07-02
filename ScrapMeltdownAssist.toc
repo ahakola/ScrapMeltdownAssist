@@ -1,0 +1,10 @@
+## Interface: 60200
+## Author: Sanex (Arathor EU)
+## Title: ScrapMeltdownAssist
+## Version: @project-version@
+## Notes: Shows armor and weapon upgrade potent on "Scrap Meltdown" -quest turn in
+## SavedVariables: ScrapMeltdownAssistIncludeBank
+## Dependencies:
+## OptionalDeps:
+
+ScrapMeltdownAssist.lua
